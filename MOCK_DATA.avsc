@@ -1,0 +1,14 @@
+{
+ "namespace": "MOCK_DATA.avro",
+ "type": "record",
+ "name": "Customer",
+ "fields": [
+	{"name":"id","type":"int"},
+	{"name":"first_name","type":"string"},
+	{"name":"last_name","type":"string"},
+	{"name":"email","type":"string"},
+	{"name":"gender","type":"string"},
+	{"name":"ip_address","type":"string"}
+ ]
+}
+ 
